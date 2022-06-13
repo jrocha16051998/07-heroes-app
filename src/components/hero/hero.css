@@ -1,0 +1,15 @@
+.cardPersonalizada{
+    width: 15vw;
+    cursor: pointer;
+    border: 2px solid transparent;
+    
+    
+}
+.cardPersonalizada:hover{
+    border: 2px solid rgb(47, 47, 40);
+    background-color:rgb(197, 180, 157);
+    
+}
+.pieCard{
+    padding: 3px;
+}
